@@ -1,0 +1,101 @@
+#,country,confederation,squad_size 2,avg_age 3,market_value
+1,England,UEFA,25th,25.4,€ 1.23 billion
+2,France,UEFA,24,27.3,€ 978.80 million
+3,Brazil,CONMEBOL,23,26.5,€ 870.50 million
+4th,Portugal,UEFA,23,27.3,€ 775.00 million
+5,Argentina,CONMEBOL,36,25.9,€ 747.50 million
+6th,Spain,UEFA,25th,27.3,€ 728.00 million
+7th,Netherlands,UEFA,24,26.1,€ 668.00 million
+8th,Italy,UEFA,25th,26.7,€ 663.50 million
+9,Germany,UEFA,21,27.5,€ 572.00 million
+10,Belgium,UEFA,23,27.8,€ 419.00 million
+11th,Senegal,CAF,26th,27.3,€ 348.80 million
+12th,Serbia,UEFA,28,26.7,€ 344.00 million
+13th,Croatia,UEFA,26th,27.1,€ 317.00 million
+14th,Poland,UEFA,26th,27.3,€ 292.80 million
+15th,Ivory Coast,CAF,27,28,€ 289.43 million
+16,Denmark,UEFA,30th,26.5,€ 289.30 million
+17th,Colombia,CONMEBOL,26th,28.5,€ 282.95 million
+18th,Nigeria,CAF,24,26.8,€ 277.55 million
+19th,Turkey,UEFA,27,25.5,€ 272.75 million
+20th,Uruguay,CONMEBOL,27,27.4,€ 263.20 million
+21,Scotland,UEFA,25th,26.7,€ 260.25 million
+22nd,Morocco,CAF,25th,26.5,€ 217.70 million
+23,Mexico,CONCACAF,23,28.7,€ 214.00 million
+24,Sweden,UEFA,26th,28.2,€ 203.40 million
+25th,United States,CONCACAF,23,23.6,€ 194.10 million
+26th,Switzerland,UEFA,22nd,26.8,€ 189.20 million
+27,Ukraine,UEFA,25th,26.9,€ 187.80 million
+28,Canada,CONCACAF,23,27,€ 165.45 million
+29,Russia,UEFA,25th,27.3,€ 153.25 million
+30th,Norway,UEFA,25th,26.9,€ 143.60 million
+31,Wales,UEFA,26th,26.3,€ 143.20 million
+32,South Korea,AFC,25th,27.2,€ 127.95 million
+33,Ghana,CAF,26th,26,€ 126.30 million
+34,Slovakia,UEFA,24,27.3,€ 122.70 million
+35,Paraguay,CONMEBOL,30th,28,€ 122.15 million
+36,Slovenia,UEFA,25th,26.7,€ 122.00 million
+37,Austria,UEFA,20th,27.9,€ 121.70 million
+38,Japan,AFC,28,27.7,€ 118.10 million
+39,Czech Republic,UEFA,22nd,27.8,€ 117.80 million
+40,Mali,CAF,22nd,25.8,€ 114.05 million
+41,Cameroon,CAF,29,26.6,€ 111.43 million
+42,Greece,UEFA,24,26.2,€ 100.60 million
+43,Chile,CONMEBOL,26th,27.9,€ 98.20 million
+44,Ireland,UEFA,27,26.2,€ 93.90 million
+45,Romania,UEFA,26th,25.9,€ 87.00 million
+46,Albania,UEFA,27,26.5,€ 77.35 million
+47,Guinea,CAF,23,26.3,€ 75.53 million
+48,Jamaica,CONCACAF,23,28.8,€ 75.25 million
+49,Peru,CONMEBOL,27,29.4,€ 67.30 million
+50,Montenegro,UEFA,29,28.9,€ 64.75 million
+51,Gabun,CAF,27,26.2,"63,28 Mio. €"
+52,Iran,AFC,27,27.4,"61,13 Mio. €"
+53,Ungarn,UEFA,22,26.9,"58,35 Mio. €"
+54,Bosnien-Herzegowina,UEFA,24,26.9,"57,10 Mio. €"
+55,Kosovo,UEFA,20,25.8,"54,20 Mio. €"
+56,Demokratische Republik Kongo,CAF,35,27.6,"51,05 Mio. €"
+57,Sambia,CAF,30,26,"50,48 Mio. €"
+58,Nordmazedonien,UEFA,24,26,"48,98 Mio. €"
+59,Israel,UEFA,22,27.4,"48,25 Mio. €"
+60,Nordirland,UEFA,25,27.1,"46,78 Mio. €"
+61,Venezuela,CONMEBOL,25,26.7,"45,90 Mio. €"
+62,Finnland,UEFA,23,27.4,"42,85 Mio. €"
+63,Georgien,UEFA,25,26.6,"42,00 Mio. €"
+64,Armenien,UEFA,28,27.9,"41,43 Mio. €"
+65,Togo,CAF,28,27.9,"41,43 Mio. €"
+66,Gambia,CAF,33,26,"39,88 Mio. €"
+67,Tunesien,CAF,33,26.2,"39,18 Mio. €"
+68,Usbekistan,AFC,23,27.9,"34,90 Mio. €"
+69,Australien,AFC,23,25.6,"32,85 Mio. €"
+70,Algerien,CAF,24,28.7,"32,80 Mio. €"
+71,Guinea-Bissau,CAF,23,27.7,"26,78 Mio. €"
+72,Luxemburg,UEFA,25,26.6,"26,28 Mio. €"
+73,Saudi-Arabien,AFC,23,25.2,"26,25 Mio. €"
+74,Costa Rica,CONCACAF,23,26.4,"24,25 Mio. €"
+75,Island,UEFA,23,28.7,"23,25 Mio. €"
+76,Angola,CAF,23,24.7,"21,30 Mio. €"
+77,Ecuador,CONMEBOL,30,25.4,"21,20 Mio. €"
+78,Katar,AFC,21,25.4,"20,25 Mio. €"
+79,China,AFC,31,26.3,"20,00 Mio. €"
+80,Ägypten,CAF,27,30.3,"19,70 Mio. €"
+81,Libyen,CAF,23,25.8,"18,25 Mio. €"
+82,Kap Verde,CAF,27,27.3,"17,83 Mio. €"
+83,Südafrika,CAF,23,28.3,"17,50 Mio. €"
+84,Suriname,CONCACAF,25,25.5,"17,43 Mio. €"
+85,Neuseeland,OFC,23,29,"17,35 Mio. €"
+86,Benin,CAF,21,25.1,"16,65 Mio. €"
+87,Bulgarien,UEFA,23,26.3,"16,55 Mio. €"
+88,Vereinigte Arabische Emirate,AFC,22,26.6,"16,45 Mio. €"
+89,Zypern,UEFA,23,29.7,"16,38 Mio. €"
+90,Syrien,AFC,22,26.4,"16,35 Mio. €"
+91,Kasachstan,UEFA,28,28,"15,05 Mio. €"
+92,Burkina Faso,CAF,23,27.4,"14,80 Mio. €"
+93,Curaçao,CONCACAF,22,25.4,"13,83 Mio. €"
+94,Republik Kongo,CAF,21,27.1,"13,33 Mio. €"
+95,Aserbaidschan,UEFA,28,24.3,"12,98 Mio. €"
+96,Komoren,CAF,24,26.4,"12,58 Mio. €"
+97,Honduras,CONCACAF,35,27.3,"12,53 Mio. €"
+98,Belarus,UEFA,21,27.8,"12,33 Mio. €"
+99,Bolivien,CONMEBOL,23,26.1,"11,35 Mio. €"
+100,Kenia,CAF,24,25.4,"10,88 Mio. €"
