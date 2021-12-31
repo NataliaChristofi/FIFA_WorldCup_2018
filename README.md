@@ -24,8 +24,11 @@ The **Average Temperature dataset** required to convert the temperature to Celci
 # References
 
 - [Average Temperature per country per year](https://www.kaggle.com/akshaychavan/average-temperature-per-country-per-year/data)
-- 
-- (https://www.kaggle.com/akshaychavan/average-temperature-per-country-per-year/data)
+- [FIFA World Cup 2018](https://www.statista.com/study/38467/fifa-world-cup-2018/)
+- [Temperature of All Countries (1995-2020)](https://www.kaggle.com/subhamjain/temperature-of-all-countries-19952020) 
+- [FIFA World Cup Final Team Statistics](https://www.whoscored.com/Regions/247/Tournaments/36/Seasons/5967/Stages/12763/TeamStatistics/International-FIFA-World-Cup-2018)
+
+
 
 
 
