@@ -17,4 +17,9 @@ The **Average Temperature dataset** required to convert the temperature to Celci
 
 # Usage
 
-``` Cleaning_FootballData.ipynb ``` is a good example of how to clean a dataset in order to be ready to use it and analyse it
+``` Cleaning_FootballData.ipynb ``` is a good example of how to clean a dataset in order to be ready to use it and analyse it <br />
+``` Maps.ipynb ``` is a useful piece of code to make a map, highly recommended as a visualisation when you have a list of countries <br />
+``` Visualizations.ipynb ``` contains different types of visualisation with the cleaned data
+
+# References
+
