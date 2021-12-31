@@ -17,4 +17,4 @@ The **Average Temperature dataset** required to convert the temperature to Celci
 
 # Usage
 
-``` jn ```
+``` Cleaning_FootballData.ipynb ``` is a good example of how to clean a dataset in order to be ready to use it and analyse it
